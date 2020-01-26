@@ -1,2 +1,6 @@
 run 15 km
 run 19 km
+jump 1.30 m
+jump 1.45 m
+14 pull-ups
+40 pull-ups
